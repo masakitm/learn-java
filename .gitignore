@@ -1,0 +1,4 @@
+.idea
+self.iml
+*.class
+.DS_Store
